@@ -894,6 +894,7 @@ a {
 .glow-cyan { background: radial-gradient(circle at top right, var(--secondary), transparent 60%); }
 .glow-red { background: radial-gradient(circle at top right, var(--accent), transparent 60%); }
 .glow-purple { background: radial-gradient(circle at top right, var(--primary), transparent 60%); }
+.glow-amber { background: radial-gradient(circle at top right, #f59e0b, transparent 60%); }
 
 .pc-top {
   display: flex;
